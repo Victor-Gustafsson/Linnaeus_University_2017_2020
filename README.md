@@ -13,3 +13,6 @@ Framtiden ligger inom det som kallas DevOps, en tydlig och genomtänkt sammansla
 Utbildningen ger dig verktygen och förståelsen för kontinuerlig leverans av en väl fungerande och testad mjukvara, samt kunskaper kring hur man driftsätter och administrerar IT-system där säkerhet är en naturlig och viktig del av utbildningen. Vi förankrar den teoretiska kunskapen i externa projekt utanför universitetet samt med praktiska moment i modern nätverks- och servermiljö. Under mer än tio års tid har vi arbetat fram en utbildning som håller hög standard. Under utbildningen arbetar du nära både lärare och andra studenter och får möjlighet att aktivt påverka dina studier.
 
 Under utbildningen kommer du bland annat att komma i kontakt med följande tekniker och verktyg: Java, JavaScript, relationsdatabaser, dokumentdatabaser, UML, design patterns, objektorienterad programmering, versionshantering med git och github, Node.js, SCRUM, REST, JSON, DevOps, Continuous Delivery, Continuous Integrations, Continuous Deployment och mycket mer.
+
+
+![image of my courses](https://raw.githubusercontent.com/Victor-Gustafsson/Linnaeus_University_2017_2020/master/Courses%20year%201-3.PNG)
