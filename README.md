@@ -1,6 +1,7 @@
 # Linnaeus University 2017-2020
  ###### My education certificate and Degree project:
  [Degree of Bachelor of Science](https://github.com/Victor-Gustafsson/Linnaeus_University_2017_2020/blob/master/Degree%20Certificate.pdf) with specialization in software development and operations. Main field of Study: Computer Science
+ 
  [Progressive Web Applications](http://www.diva-portal.org/smash/get/diva2:1446696/FULLTEXT01.pdf) : An Analysis of the Experience and Scope of the Technology in Sweden
 
 ### Program description
