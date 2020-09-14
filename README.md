@@ -3,7 +3,7 @@
  [Degree of Bachelor of Science](https://github.com/Victor-Gustafsson/Linnaeus_University_2017_2020/blob/master/Degree%20Certificate.pdf) with specialization in software development and operations. Main field of Study: Computer Science
  [Progressive Web Applications](http://www.diva-portal.org/smash/get/diva2:1446696/FULLTEXT01.pdf) : An Analysis of the Experience and Scope of the Technology in Sweden
 
-### Program description from the school 
+### Program description
 Utveckling och drift av mjukvarusystem är en 3-årig utbildning vi Linnéuniversitetet i Kalmar. Utbildningen går att läsa både på campus och på distans.
 
 Utveckling av mjukvarusystem handlar inte bara om programmering, man måste även driftsätta och underhålla IT-systemen som mjukvaran är beroende av. Utmaningarna för mjukvaruutvecklare förändras ständigt. Många mjukvarusystem måste idag kontinuerligt utvecklas och uppdateras under drift. 
