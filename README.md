@@ -1,5 +1,8 @@
-# Linnaeus_University_2017_2020
+# Linnaeus University 2017 2020
+ ###### My education has resulted in:
  Degree of Bachelor of Science with specialization in software development and operations. Main field of Study: Computer Science
+ ###### Degree project:
+ [Progressive Web Applications](http://www.diva-portal.org/smash/get/diva2:1446696/FULLTEXT01.pdf) : An Analysis of the Experience and Scope of the Technology in Sweden
 
 ## Programbeskrivning
 Utveckling och drift av mjukvarusystem är en 3-årig utbildning vi Linnéuniversitetet i Kalmar. Utbildningen går att läsa både på campus och på distans.
